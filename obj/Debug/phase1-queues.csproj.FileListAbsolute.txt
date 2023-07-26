@@ -1,0 +1,8 @@
+C:\Users\Admin\source\repos\phase1-queues\phase1-queues\bin\Debug\phase1-queues.exe.config
+C:\Users\Admin\source\repos\phase1-queues\phase1-queues\bin\Debug\phase1-queues.exe
+C:\Users\Admin\source\repos\phase1-queues\phase1-queues\bin\Debug\phase1-queues.pdb
+C:\Users\Admin\source\repos\phase1-queues\phase1-queues\obj\Debug\phase1-queues.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\phase1-queues\phase1-queues\obj\Debug\phase1-queues.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\phase1-queues\phase1-queues\obj\Debug\phase1-queues.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\phase1-queues\phase1-queues\obj\Debug\phase1-queues.exe
+C:\Users\Admin\source\repos\phase1-queues\phase1-queues\obj\Debug\phase1-queues.pdb
